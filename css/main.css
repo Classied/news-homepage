@@ -1,2 +1,40 @@
 /* GLOBAL STYLES--> MOBILE */
 
+html{
+    background-color: white;
+}
+
+body{
+   font-family: 'Inter', sans-serif;
+   /* display: flex;
+   justify-content: center;
+   align-items: center; */
+}
+
+/* MOBILE STYLES */
+
+.content-wrapper{
+
+}
+
+header{
+display: flex;
+flex-flow: row wrap;
+width: 100%;
+}
+
+.logo{
+    width: 50%;
+}
+
+.icon-menu{
+ 
+}
+
+.icon-closeout{
+    display: none;
+}
+
+nav{
+    display:none;
+}
