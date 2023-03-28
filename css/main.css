@@ -14,7 +14,12 @@ body{
 /* MOBILE STYLES */
 
 .content-wrapper{
-
+    max-width: 1200px;
+    width: 90%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
 }
 
 header{
@@ -23,18 +28,35 @@ flex-flow: row wrap;
 width: 100%;
 }
 
+
 .logo{
     width: 50%;
+    margin: 0;
 }
 
 .icon-menu{
- 
+    width: 25%;
+
 }
 
 .icon-closeout{
     display: none;
 }
 
+.logo img{
+    align-items: start;
+}
+
+.icon-menu img{
+
+}
+
 nav{
     display:none;
+}
+
+
+
+.section-one img{
+    width: 100%;
 }
