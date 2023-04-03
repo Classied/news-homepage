@@ -87,20 +87,20 @@ h1 {
 
 .section-one p {
     outline: 3px dotted purple;
-   margin: 20px 8px;
+    margin: 20px 8px;
     line-height: 25px;
     font-weight: 400;
     color: hsl(240, 100%, 5%);
 }
 
-.button{
+.button {
     background-color: hsl(5, 85%, 63%);
     width: 53%;
     padding: 8px 0;
-    
+
 }
 
-.section-one .button{
+.section-one .button {
     color: hsl(36, 100%, 99%);
     font-weight: 700;
     letter-spacing: 3px;
