@@ -82,12 +82,12 @@ h1 {
     outline: 3px dotted green;
     padding-right: 95px;
     color: hsl(240, 100%, 5%);
+    margin: 20px 8px;
 }
 
 .section-one p {
     outline: 3px dotted purple;
-    /* margin: 0; */
-    padding: 0;
+   margin: 20px 8px;
     line-height: 25px;
     font-weight: 400;
     color: hsl(240, 100%, 5%);
