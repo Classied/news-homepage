@@ -1,14 +1,16 @@
 /* GLOBAL STYLES--> MOBILE */
 
+
 html {
     background-color: white;
+   
 }
 
 body {
     font-family: 'Inter', sans-serif;
-    /* display: flex;
+    display: flex;
    justify-content: center;
-   align-items: center; */
+   align-items: center;
 }
 
 p {
@@ -16,14 +18,14 @@ p {
 }
 
 figure {
-    margin: 0 auto;
+    margin: 0;
 }
 
 /* MOBILE STYLES */
 
 .content-wrapper {
     max-width: 375px;
-    /* width: 90%; */
+    width: 100%;
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
@@ -63,7 +65,7 @@ nav {
 /* MAIN STYLES */
 
 .section-one {
-    outline: red dotted 3px;
+    /* outline: red dotted 3px; */
     margin-left: 5px;
     margin-top: 25px;
     width: 350px;
@@ -73,20 +75,20 @@ nav {
     width: 95%;
     margin-top: 10px;
     margin-left: 8px;
-    outline: 3px dotted blue;
+    /* outline: 3px dotted blue; */
 }
 
 h1 {
     font-weight: 800;
     font-size: 30px;
-    outline: 3px dotted green;
+    /* outline: 3px dotted green; */
     padding-right: 95px;
     color: hsl(240, 100%, 5%);
     margin: 20px 8px;
 }
 
 .section-one p {
-    outline: 3px dotted purple;
+    /* outline: 3px dotted purple; */
     margin: 20px 8px;
     line-height: 25px;
     font-weight: 400;
@@ -107,4 +109,19 @@ h1 {
     text-transform: uppercase;
     text-align: center;
     margin-bottom: 50px;
+}
+
+/* ASIDE SECTION  */
+
+aside{
+    background-color: hsl(240, 100%, 5%);
+}
+
+aside h2{
+    color: hsl(35, 77%, 62%);
+}
+
+aside h3,
+p{
+    color: hsl(36,100%,99%);
 }
