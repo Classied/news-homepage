@@ -3,14 +3,14 @@
 
 html {
     background-color: white;
-   
+
 }
 
 body {
     font-family: 'Inter', sans-serif;
     display: flex;
-   justify-content: center;
-   align-items: center;
+    justify-content: center;
+    align-items: center;
 }
 
 p {
@@ -114,14 +114,14 @@ h1 {
 
 /* ASIDE SECTION  */
 
-aside{
+aside {
     /* background-color: hsl(240, 100%, 5%); */
     outline: 3px red dotted;
     margin-left: 5px;
     width: 350px;
 }
 
-aside h2{
+aside h2 {
     /* color: hsl(35, 77%, 62%); */
     outline: 3px green dotted;
     padding: 20px;
@@ -129,18 +129,18 @@ aside h2{
 }
 
 aside h3,
-p{
+p {
     /* color: hsl(36,100%,99%); */
     padding-left: 20px;
     padding-right: 30px;
-    
+
 }
 
-aside h3{
+aside h3 {
     outline: 3px blue dotted;
 }
 
-aside p{
+aside p {
     /* outline: 3px purple dotted; */
     padding: 0;
     margin: 0px 20px;
