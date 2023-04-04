@@ -114,14 +114,25 @@ h1 {
 /* ASIDE SECTION  */
 
 aside{
-    background-color: hsl(240, 100%, 5%);
+    /* background-color: hsl(240, 100%, 5%); */
+    outline: 3px red dotted;
 }
 
 aside h2{
-    color: hsl(35, 77%, 62%);
+    /* color: hsl(35, 77%, 62%); */
+    outline: 3px green dotted;
 }
 
 aside h3,
 p{
-    color: hsl(36,100%,99%);
+    /* color: hsl(36,100%,99%); */
+    
+}
+
+aside h3{
+    outline: 3px blue dotted;
+}
+
+aside p{
+    outline: 3px purple dotted;
 }
