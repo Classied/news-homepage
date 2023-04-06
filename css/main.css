@@ -67,7 +67,6 @@ nav {
 /* MAIN STYLES */
 
 .section-one {
-    outline: red dotted 3px;
     margin-left: 5px;
     margin-top: 25px;
     width: 350px;
@@ -77,20 +76,17 @@ nav {
     width: 95%;
     margin-top: 10px;
     margin-left: 8px;
-    /* outline: 3px dotted blue; */
 }
 
 h1 {
     font-weight: 800;
     font-size: 40px;
-    /* outline: 3px dotted green; */
     padding-right: 55px;
     color: hsl(240, 100%, 5%);
     margin: 20px 8px;
 }
 
 .section-one p {
-    /* outline: 3px dotted purple; */
     margin: 20px 8px;
     line-height: 25px;
     font-weight: 400;
@@ -119,7 +115,6 @@ h1 {
 aside {
     background-color: hsl(240, 100%, 5%);
     margin: 0 10px 50px 10px;
-    /* margin-bottom: 50px; */
 }
 
 article {
@@ -159,7 +154,6 @@ aside p {
 /* SECTION THREE  */
 
 .section-three {
-    outline: 3px dotted red;
     width: 350px;
     margin-left: 3px;
 }
@@ -205,14 +199,12 @@ article img {
     font-weight: 800;
     margin: 0;
     margin-bottom: 12px;
-    /* outline: 3px dotted blue; */
     padding-left: 5px;
 }
 
 .section-three p{
 color: hsl(236, 13%, 42%);
 margin: 0;
-/* outline: 3px dotted green; */
 padding-right: 10px;
 padding-left: 5px;
 }
