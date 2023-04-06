@@ -117,8 +117,8 @@ h1 {
 
 aside {
     background-color: hsl(240, 100%, 5%);
-    margin-left: 5px;
-    margin-bottom: 50px;
+    margin: 0 5px 50px 5px;
+    /* margin-bottom: 50px; */
 }
 
 article {
@@ -136,7 +136,7 @@ article {
 
 aside h2 {
     color: hsl(35, 77%, 62%);
-    padding: 20px;
+    padding: 25px 0 10px 20px;
     font-size: 30px;
 }
 
@@ -150,6 +150,6 @@ aside h3 {
 aside p {
     line-height: 22px;
     margin-bottom: 25px;
-    padding-right: 20px;
+    padding-right: 15px;
     color: hsl(233, 8%, 79%);
 }
