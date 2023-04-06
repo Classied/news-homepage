@@ -117,20 +117,18 @@ h1 {
 
 aside {
     background-color: hsl(240, 100%, 5%);
-    /* outline: 3px red dotted; */
     margin-left: 5px;
     margin-bottom: 50px;
 }
 
 article {
-    border-bottom: 1px hsl(36,100%,99%) solid;
+    border-bottom: 1px hsl(233, 8%, 79%) solid;
     margin: 0 20px;
 
 }
 
 .headline-three{
     border: none;
-    outline: 3px red dotted;
     padding-bottom: 1px;
 }
 
@@ -138,23 +136,20 @@ article {
 
 aside h2 {
     color: hsl(35, 77%, 62%);
-    outline: 3px green dotted;
     padding: 20px;
     font-size: 30px;
 }
 
 
 aside h3 {
-    outline: 3px blue dotted;
     font-size: 20px;
     margin-top: 25px;
     color: hsl(36,100%,99%);
 }
 
 aside p {
-    outline: 3px purple dotted;
     line-height: 22px;
     margin-bottom: 25px;
     padding-right: 20px;
-    color: hsl(36,100%,99%);
+    color: hsl(233, 8%, 79%);
 }
