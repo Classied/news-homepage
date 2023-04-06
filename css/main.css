@@ -18,7 +18,7 @@ body {
     width: 90%;
     display: flex;
     justify-content: center;
-    flex-flow: row wrap;    
+    flex-flow: row wrap;
     align-items: center;
 }
 
@@ -128,7 +128,7 @@ article {
 
 }
 
-.headline-three{
+.headline-three {
     border: none;
     padding-bottom: 1px;
 }
@@ -146,7 +146,7 @@ aside h2 {
 aside h3 {
     font-size: 20px;
     margin-top: 25px;
-    color: hsl(36,100%,99%);
+    color: hsl(36, 100%, 99%);
 }
 
 aside p {
@@ -158,7 +158,7 @@ aside p {
 
 /* SECTION THREE  */
 
-.section-three{
+.section-three {
     outline: 3px dotted red;
 }
 
@@ -174,7 +174,7 @@ aside p {
     flex-flow: row wrap; */
 }
 
-article img{
+article img {
     outline: 3px dotted green;
     width: 30%;
     margin-left: 0px;
