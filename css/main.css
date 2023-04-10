@@ -78,6 +78,10 @@ nav {
     margin-left: 8px;
 }
 
+.desktop-image img{
+    display: none;
+}
+
 h1 {
     font-weight: 800;
     font-size: 40px;
@@ -249,16 +253,26 @@ nav ul li a{
 
 /* MAIN STYLES  */
 
+main{
+    /* outline: red dotted 3px; */
+    width: 85%;
+}
+
 .section-one {
     margin-left: 5px;
     margin-top: 25px;
-    width: 350px;
+    width: 70%;
+    outline: 3px red dotted;
 }
 
-.section-one img {
-    width: 95%;
-    margin-top: 10px;
-    margin-left: 8px;
+.section-one img{ 
+    display: none;
+}
+
+.desktop-image img{
+ display:flex; 
+ width: 100%; 
+ margin: 0;  
 }
 
 h1 {
@@ -278,7 +292,7 @@ h1 {
 
 .button {
     background-color: hsl(5, 85%, 63%);
-    width: 53%;
+    width: 30%;
     padding: 8px 0;
 
 }
