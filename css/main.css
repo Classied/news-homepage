@@ -234,14 +234,23 @@ outline: 3px red dotted;
     display: none;
 }
 
-
 nav {
     width: 70%;
-    display: 
-    
-}
+    display: block;
+    outline: 3px dotted purple;
+    margin: 0;
+    padding: 0;
+    text-align: end;}
 
 nav ul li{
 display: inline;
+outline: 3px green dotted;
+margin: 0 25px;
+text-transform: capitalize;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
 }
 }
