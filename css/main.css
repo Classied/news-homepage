@@ -78,7 +78,7 @@ nav {
     margin-left: 8px;
 }
 
-.desktop-image img{
+.desktop-image img {
     display: none;
 }
 
@@ -222,88 +222,89 @@ footer {
 
 
 /* DESKTOP STYLES  */
-@media only screen and (min-width:1200px){
+@media only screen and (min-width:1200px) {
     /* HEADER STYLES */
 
-.logo {
-    width: 30%;
-    margin: 0;
-}
+    .logo {
+        width: 30%;
+        margin: 0;
+    }
 
-.icon-menu {
-    display: none;
-}
+    .icon-menu {
+        display: none;
+    }
 
-nav {
-    width: 70%;
-    display: block;
-        text-align: end;}
+    nav {
+        width: 70%;
+        display: block;
+        text-align: end;
+    }
 
-nav ul li{
-display: inline;
-outline: 3px green dotted;
-margin: 0 25px;
-text-transform: capitalize;
-}
+    nav ul li {
+        display: inline;
+        outline: 3px green dotted;
+        margin: 0 25px;
+        text-transform: capitalize;
+    }
 
-nav ul li a{
-    text-decoration: none;
-    color: black;
-}
+    nav ul li a {
+        text-decoration: none;
+        color: black;
+    }
 
-/* MAIN STYLES  */
+    /* MAIN STYLES  */
 
-main{
-    /* outline: red dotted 3px; */
-    width: 85%;
-}
+    main {
+        /* outline: red dotted 3px; */
+        width: 85%;
+    }
 
-.section-one {
-    margin-left: 5px;
-    margin-top: 25px;
-    width: 70%;
-    outline: 3px red dotted;
-}
+    .section-one {
+        margin-left: 5px;
+        margin-top: 25px;
+        width: 70%;
+        outline: 3px red dotted;
+    }
 
-.section-one img{ 
-    display: none;
-}
+    .section-one img {
+        display: none;
+    }
 
-.desktop-image img{
- display:flex; 
- width: 100%; 
- margin: 0;  
-}
+    .desktop-image img {
+        display: flex;
+        width: 100%;
+        margin: 0;
+    }
 
-h1 {
-    font-weight: 800;
-    font-size: 40px;
-    padding-right: 55px;
-    color: hsl(240, 100%, 5%);
-    margin: 20px 8px;
-}
+    h1 {
+        font-weight: 800;
+        font-size: 40px;
+        padding-right: 55px;
+        color: hsl(240, 100%, 5%);
+        margin: 20px 8px;
+    }
 
-.section-one p {
-    margin: 20px 8px;
-    line-height: 25px;
-    font-weight: 400;
-    color: hsl(240, 100%, 5%);
-}
+    .section-one p {
+        margin: 20px 8px;
+        line-height: 25px;
+        font-weight: 400;
+        color: hsl(240, 100%, 5%);
+    }
 
-.button {
-    background-color: hsl(5, 85%, 63%);
-    width: 30%;
-    padding: 8px 0;
+    .button {
+        background-color: hsl(5, 85%, 63%);
+        width: 30%;
+        padding: 8px 0;
 
-}
+    }
 
-.section-one .button {
-    color: hsl(36, 100%, 99%);
-    font-weight: 700;
-    font-size: 13px;
-    letter-spacing: 5px;
-    text-transform: uppercase;
-    text-align: center;
-    margin-bottom: 50px;
-}
+    .section-one .button {
+        color: hsl(36, 100%, 99%);
+        font-weight: 700;
+        font-size: 13px;
+        letter-spacing: 5px;
+        text-transform: uppercase;
+        text-align: center;
+        margin-bottom: 50px;
+    }
 }
