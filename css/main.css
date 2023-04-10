@@ -218,6 +218,30 @@ footer {
 
 
 /* DESKTOP STYLES  */
-@media only screen and (min-width:1440px){
+@media only screen and (min-width:1200px){
+    /* HEADER STYLES */
+header{
+outline: 3px red dotted;
+}
+
+.logo {
+    width: 30%;
+    margin: 0;
+    outline: 3px dotted blue;
+}
+
+.icon-menu {
+    display: none;
+}
+
+
+nav {
+    width: 70%;
+    display: 
     
+}
+
+nav ul li{
+display: inline;
+}
 }
