@@ -220,14 +220,10 @@ footer {
 /* DESKTOP STYLES  */
 @media only screen and (min-width:1200px){
     /* HEADER STYLES */
-header{
-outline: 3px red dotted;
-}
 
 .logo {
     width: 30%;
     margin: 0;
-    outline: 3px dotted blue;
 }
 
 .icon-menu {
@@ -237,10 +233,7 @@ outline: 3px red dotted;
 nav {
     width: 70%;
     display: block;
-    outline: 3px dotted purple;
-    margin: 0;
-    padding: 0;
-    text-align: end;}
+        text-align: end;}
 
 nav ul li{
 display: inline;
@@ -252,5 +245,51 @@ text-transform: capitalize;
 nav ul li a{
     text-decoration: none;
     color: black;
+}
+
+/* MAIN STYLES  */
+
+.section-one {
+    margin-left: 5px;
+    margin-top: 25px;
+    width: 350px;
+}
+
+.section-one img {
+    width: 95%;
+    margin-top: 10px;
+    margin-left: 8px;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 40px;
+    padding-right: 55px;
+    color: hsl(240, 100%, 5%);
+    margin: 20px 8px;
+}
+
+.section-one p {
+    margin: 20px 8px;
+    line-height: 25px;
+    font-weight: 400;
+    color: hsl(240, 100%, 5%);
+}
+
+.button {
+    background-color: hsl(5, 85%, 63%);
+    width: 53%;
+    padding: 8px 0;
+
+}
+
+.section-one .button {
+    color: hsl(36, 100%, 99%);
+    font-weight: 700;
+    font-size: 13px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 50px;
 }
 }
