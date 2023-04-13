@@ -278,8 +278,10 @@ footer {
 
     h1 {
         font-weight: 800;
-        font-size: 40px;
-        padding-right: 55px;
+        font-size: 55px;
+        width: 50%;
+        line-height: 55px;
+        /* padding-right: 55px; */
         color: hsl(240, 100%, 5%);
         margin: 20px 8px;
     }
@@ -289,6 +291,7 @@ footer {
         line-height: 25px;
         font-weight: 400;
         color: hsl(240, 100%, 5%);
+        width: 50%;
     }
 
     .button {
