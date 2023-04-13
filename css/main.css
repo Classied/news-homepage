@@ -290,18 +290,18 @@ footer {
 
     h1 {
         font-size: 50px;
-        width: 50%;
+        width: 40%;
         line-height: 55px;
         padding: 0;
         margin: 0;
     }
 
     .section-one p {
-        margin: 20px 8px;
+        margin-left: 60px;
         line-height: 25px;
         font-weight: 400;
         color: hsl(240, 100%, 5%);
-        width: 90%;
+        width: 100%;
         outline: green 3px dotted;
     }
 
