@@ -269,8 +269,8 @@ footer {
     .section-content{
         outline: 3px blue dotted;
         display: flex;
-        justify-content: center;
-        align-items: center;
+        /* justify-content: center;
+        align-items: center; */
         flex: row;
     }
 
@@ -290,12 +290,12 @@ footer {
 
     h1 {
         font-weight: 800;
-        font-size: 55px;
-        width: 45%;
+        font-size: 50px;
+        width: 40%;
         line-height: 55px;
         /* padding-right: 55px; */
         color: hsl(240, 100%, 5%);
-        margin: 20px 8px;
+        /* margin: 20px 8px; */
     }
 
     .section-one p {
