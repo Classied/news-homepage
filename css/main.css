@@ -266,6 +266,13 @@ footer {
         outline: 3px red dotted;
     }
 
+    .section-content{
+        outline: 3px blue dotted;
+        /* display: flex;
+        justify-content: center;
+        align-items: center;
+        flex: row; */
+    }
     .section-one img {
         display: none;
     }
@@ -292,6 +299,7 @@ footer {
         font-weight: 400;
         color: hsl(240, 100%, 5%);
         width: 50%;
+        outline: green 3px dotted;
     }
 
     .button {
