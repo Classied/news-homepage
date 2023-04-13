@@ -297,18 +297,13 @@ footer {
     }
 
     .section-one p {
-        margin-top: 30px;
-        margin-left: 60px;
-        line-height: 25px;
-        font-weight: 400;
-        color: hsl(240, 100%, 5%);
+        margin: 30px 0 0 60px;
+        line-height: 25px;        
         width: 100%;
-        outline: green 3px dotted;
     }
 
     .button {
         padding: 10px 0;
-
     }
 
     .section-one .button {
