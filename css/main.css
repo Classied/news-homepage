@@ -157,12 +157,12 @@ aside p {
 
 /* SECTION THREE  */
 
-.section-three {
+.bottom-section {
     width: 350px;
     margin-left: 3px;
 }
 
-.section-three article {
+.bottom-section article {
     border: none;
 }
 
@@ -177,7 +177,7 @@ aside p {
     flex-flow: row wrap;
 }
 
-.section-three figure {
+.bottom-section figure {
     width: 35%;
 }
 
@@ -191,7 +191,7 @@ article img {
     margin-left: 7px;
 }
 
-.section-three h3 {
+.bottom-section h3 {
     font-size: 30px;
     color: hsl(233, 8%, 79%);
     margin-top: 0;
@@ -199,7 +199,7 @@ article img {
     padding-left: 5px;
 }
 
-.section-three h4 {
+.bottom-section h4 {
     font-size: 17px;
     font-weight: 800;
     margin: 0;
@@ -207,7 +207,7 @@ article img {
     padding-left: 5px;
 }
 
-.section-three p {
+.bottom-section p {
     color: hsl(236, 13%, 42%);
     margin: 0;
     padding-right: 10px;
@@ -264,9 +264,7 @@ footer {
         margin-left: 5px;
         margin-top: 25px;
         width: 60%;
-        outline: 3px red dotted;
-        
-       
+        outline: 3px red dotted;    
        
     }
 
@@ -320,7 +318,13 @@ footer {
         margin: 0;
     }
 
-    .section-three{
+.top-section{
+    display: flex;
+    flex: row wrap;
+
+}
+
+    .bottom-section{
         outline: 3px dotted blue;
         display: flex;
         width: 100%;
