@@ -255,14 +255,14 @@ footer {
     /* MAIN STYLES  */
 
     main {
-        /* outline: red dotted 3px; */
-        width: 85%;
+        outline: red dotted 3px;
+        width: 100%;
     }
 
     .section-one {
         margin-left: 5px;
         margin-top: 25px;
-        width: 70%;
+        width: 60%;
         outline: 3px red dotted;
     }
 
