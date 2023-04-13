@@ -289,15 +289,11 @@ footer {
     }
 
     h1 {
-        font-weight: 800;
         font-size: 50px;
         width: 50%;
         line-height: 55px;
-        /* padding-right: 55px; */
         padding: 0;
         margin: 0;
-        color: hsl(240, 100%, 5%);
-        /* margin: 20px 8px; */
     }
 
     .section-one p {
