@@ -273,11 +273,10 @@ footer {
     }
 
     .section-one {
-        margin-left: 20px;
-        margin-top: 15px;
         height: 550px;
-        width: 80%;
+        width: 65%;
         outline: 3px red dotted;
+        margin: 0
     }
 
     .section-content {
@@ -328,7 +327,7 @@ footer {
     aside {
         width: 30%;
         margin: 0;
-        margin-left: 100px;
+        /* margin-left: 100px; */
         margin-bottom: 50px;
         margin-top: 10px;
     }
