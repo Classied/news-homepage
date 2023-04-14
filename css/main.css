@@ -316,7 +316,10 @@ footer {
     aside{
         width: 30%;
         margin: 0;
+        margin-left: 100px;
+        padding:0;
     }
+
 
 .top-section{
     display: flex;
