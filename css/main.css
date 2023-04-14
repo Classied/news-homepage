@@ -257,18 +257,18 @@ footer {
     main {
         outline: red dotted 3px;
         width: 100%;
-        
+
     }
 
     .section-one {
         margin-left: 5px;
         margin-top: 25px;
         width: 60%;
-        outline: 3px red dotted;    
-       
+        outline: 3px red dotted;
+
     }
 
-    .section-content{
+    .section-content {
         outline: 3px blue dotted;
         display: flex;
         /* justify-content: center;
@@ -276,7 +276,7 @@ footer {
         flex: row;
     }
 
-    .section-description{
+    .section-description {
         width: 50%;
     }
 
@@ -300,7 +300,7 @@ footer {
 
     .section-one p {
         margin: 30px 0 0 60px;
-        line-height: 25px;        
+        line-height: 25px;
         width: 100%;
     }
 
@@ -309,11 +309,11 @@ footer {
     }
 
     .section-one .button {
-      margin-bottom: 40px;
+        margin-bottom: 40px;
         width: 55%;
     }
 
-    aside{
+    aside {
         width: 30%;
         margin: 0;
         margin-left: 100px;
@@ -323,27 +323,27 @@ footer {
 
     aside h2 {
         padding: 5px 0 10px 20px;
-            }
-    
-                      
-            article {
-                border-bottom: 1px hsl(233, 8%, 79%) solid;
-                margin: 0 20px;
-            
-            }
-            
-            .headline-three {
-                border: none;
-                padding-bottom: 1px;
-            }
+    }
 
-.top-section{
-    display: flex;
-    flex: row wrap;
 
-}
+    article {
+        border-bottom: 1px hsl(233, 8%, 79%) solid;
+        margin: 0 20px;
 
-    .bottom-section{
+    }
+
+    .headline-three {
+        border: none;
+        padding-bottom: 1px;
+    }
+
+    .top-section {
+        display: flex;
+        flex: row wrap;
+
+    }
+
+    .bottom-section {
         outline: 3px dotted blue;
         display: flex;
         width: 100%;
