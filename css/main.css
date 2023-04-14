@@ -317,9 +317,27 @@ footer {
         width: 30%;
         margin: 0;
         margin-left: 100px;
-        padding:0;
     }
 
+    aside h2 {
+        padding: 5px 0 10px 20px;
+            }
+    
+            aside {
+                background-color: hsl(240, 100%, 5%);
+                margin: 0 10px 50px 10px;
+            }
+            
+            article {
+                border-bottom: 1px hsl(233, 8%, 79%) solid;
+                margin: 0 20px;
+            
+            }
+            
+            .headline-three {
+                border: none;
+                padding-bottom: 1px;
+            }
 
 .top-section{
     display: flex;
