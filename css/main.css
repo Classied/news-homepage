@@ -230,6 +230,12 @@ footer {
         margin: 0;
     }
 
+    .logo img{
+        width: 60px;
+        margin: 50px 0;
+
+    }
+
     .icon-menu {
         display: none;
     }
@@ -291,8 +297,11 @@ footer {
 
     .section-description {
         width: 50%;
-        margin: 0;
-        padding-right: 30px;
+        margin: 0;      
+    }
+
+    .section-one p {
+        margin-right: 50px;
     }
 
     .section-one img {
