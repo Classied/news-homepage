@@ -278,6 +278,7 @@ footer {
         outline: 3px red dotted;
         margin: 0
         margin-top: 70px;
+        margin-left: 15px;
     }
 
     .section-content {
@@ -291,6 +292,7 @@ footer {
     .section-description {
         width: 50%;
         margin: 0;
+        padding-right: 30px;
     }
 
     .section-one img {
