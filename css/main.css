@@ -225,7 +225,7 @@ footer {
 @media only screen and (min-width:1200px) {
     /* HEADER STYLES */
 
-    .logo {
+       .logo {
         width: 30%;
         margin: 0;
     }
@@ -248,7 +248,6 @@ footer {
     nav ul li {
         display: inline;
         outline: 3px green dotted;
-        /* margin: 0 25px; */
         text-transform: capitalize;
     }
 
