@@ -224,12 +224,12 @@ footer {
 @media only screen and (min-width:1200px) {
     /* HEADER STYLES */
 
-       .logo {
+    .logo {
         width: 30%;
         margin: 0;
     }
 
-    .logo img{
+    .logo img {
         width: 60px;
         margin: 50px 0;
     }
@@ -240,7 +240,7 @@ footer {
 
     nav {
         width: 70%;
-        display:inline-block;
+        display: inline-block;
         text-align: end;
     }
 
@@ -290,24 +290,24 @@ footer {
         align-items: center; */
         flex: row;
         margin: 0;
-       
+
     }
 
-    .section-content h1{
-width: 50%;
+    .section-content h1 {
+        width: 50%;
     }
 
     .section-description {
         width: 60%;
-        margin: 0;      
+        margin: 0;
     }
 
-    .section-description p{
-       
+    .section-description p {
+
         margin: 10px;
     }
 
-    
+
 
     .section-one img {
         display: none;
@@ -359,7 +359,7 @@ width: 50%;
         font-size: 45px;
     }
 
-   
+
 
 
 
