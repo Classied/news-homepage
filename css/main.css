@@ -357,14 +357,39 @@ footer {
     }
 
 .bottom-section .article-one,
-.article-two, .article-three {
+.bottom-section .article-three {
 width: 33%;
 }
 
-.article-one img, .article-two img, .article-three img {
+.article-one img,  .article-three img{
     margin: 0;
+    width: 85%;
 }
 
+.bottom-section .article-two{
+    width: 36%;
+}
 
+.article-two img{
+    width: 80%;
+}
+
+.article-one p, .article-two p, .article-three p{
+    line-height: 25px;
+    margin-bottom: 10px;
+}
+
+.article-two p, .article-three p{
+    padding-right: 20px;
+}
+
+.article-one h3, .article-two h3, .article-three h3{
+    font-size: 35px;
+}
+
+.article-one h4, .article-two h4, .article-three h4{
+    font-size: 20px;
+    
+}
 
 }
